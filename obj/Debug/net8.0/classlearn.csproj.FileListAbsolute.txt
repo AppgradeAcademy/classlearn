@@ -1,0 +1,15 @@
+C:\Users\PC\classlearn\bin\Debug\net8.0\classlearn.exe
+C:\Users\PC\classlearn\bin\Debug\net8.0\classlearn.deps.json
+C:\Users\PC\classlearn\bin\Debug\net8.0\classlearn.runtimeconfig.json
+C:\Users\PC\classlearn\bin\Debug\net8.0\classlearn.dll
+C:\Users\PC\classlearn\bin\Debug\net8.0\classlearn.pdb
+C:\Users\PC\classlearn\obj\Debug\net8.0\classlearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\classlearn\obj\Debug\net8.0\classlearn.AssemblyInfoInputs.cache
+C:\Users\PC\classlearn\obj\Debug\net8.0\classlearn.AssemblyInfo.cs
+C:\Users\PC\classlearn\obj\Debug\net8.0\classlearn.csproj.CoreCompileInputs.cache
+C:\Users\PC\classlearn\obj\Debug\net8.0\classlearn.sourcelink.json
+C:\Users\PC\classlearn\obj\Debug\net8.0\classlearn.dll
+C:\Users\PC\classlearn\obj\Debug\net8.0\refint\classlearn.dll
+C:\Users\PC\classlearn\obj\Debug\net8.0\classlearn.pdb
+C:\Users\PC\classlearn\obj\Debug\net8.0\classlearn.genruntimeconfig.cache
+C:\Users\PC\classlearn\obj\Debug\net8.0\ref\classlearn.dll
